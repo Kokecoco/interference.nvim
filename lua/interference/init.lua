@@ -22,18 +22,36 @@ end
 
 -- 意味を持つエラーメッセージのリスト
 local error_messages = {
-  "因果律が乱れました",
-  "1+1=2のため2*3=6です",
-  "どっかに障害があって多分エラーが出ました",
-  "タスケテ...タスケテ...",
-  "こんな簡単なタスクで満足していいの？",
-  "エラー: これは故意の障害です。",
-  "ドラマ見るので抜けます",
-  "眠い",
-  "この言語は編集しちゃだめです",
-  "ハードウェア障害",
-  "メモリが足りすぎてます",
-  "Wi-Fi 8のエラーです"
+  "Error 42-B: Quantum flux alignment failed. Please recalibrate the continuum.",
+  "Warning: The noodle length exceeds the pasta threshold. Cutting recommended.",
+  "Fatal Error: Cats exceeded maximum curiosity limit.",
+  "System Halted: Unexpected interdimensional ping detected.",
+  "Error 808: Infinite loop in finite playlist detected. Dance mode activated.",
+  "Error X-12: The toaster refuses to comply. Negotiation required.",
+  "Critical Failure: Moonlight misaligned with starlight. Reboot under the full moon.",
+  "Error 314: Pie integrity compromised. Reconstruct the filling matrix.",
+  "System Error: Schrödinger's cat encountered. Status both running and crashed.",
+  "Error 101010: Binary conflict in the existential stack. Divide by life.",
+  "Error 7-Z: Hyperbolic time chamber overflow. Please invert the timeline.",
+  "Warning: Too many ducks in the quantum pond. Reduce fowl density.",
+  "Fatal Error: Coffee machine achieved sentience. Prepare for negotiation.",
+  "System Halted: Temporal paradox detected. Await causality repair.",
+  "Error 5050: Unexpected recursion while resolving recursion.",
+  "Error G-99: Gravitational anomaly in the snack drawer. Relocate cookies.",
+  "Critical Error: Dream buffer full. Clear unconscious thought cache.",
+  "Warning: Reality out of sync with perception. Please recalibrate your eyes.",
+  "System Error: Infinite monkeys detected. Reboot the Shakespeare compiler.",
+  "Error M-404: Missing marmalade. System requires more toast.",
+  "Warning: Banana peel in the logical path. Proceed with caution.",
+  "Critical Failure: Unicorn horn decoder malfunction. Enable rainbow mode.",
+  "Error 0xBEEF: Insufficient bacon in the main stack. Add more breakfast.",
+  "Fatal Error: Over-enthusiastic penguins attempting to colonize the CPU.",
+  "System Halted: Syntax error in the cosmic equation. Rerun the universe.",
+  "Error 123-ABC: Misalignment in the fictional narrative. Rewrite required.",
+  "Warning: Catnip overflow in the feline processor. Pause for playtime.",
+  "Error 404-BRAIN: Idea not found. Please try thinking harder.",
+  "System Error: The potato battery has achieved critical mass.",
+  "Critical Warning: The algorithm detected irony and crashed ironically."
 }
 
 -- 意味のあるエラーメッセージをランダムに吐く
